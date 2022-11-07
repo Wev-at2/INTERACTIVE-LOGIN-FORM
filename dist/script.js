@@ -3,16 +3,16 @@ $(document).ready(function(){
 	$(":text").focus(function(){
 		$(".handl").css({
 			transform: 'rotate(0deg)',
-			bottom: '180px',
+			bottom: '196px',
 			left:'40px',
-			height:'45px',
+			height:'30px',
 			width:'35px'
 		});
 		$(".handr").css({
 			transform: 'rotate(0deg)',
-			bottom: '180px',
+			bottom: '196px',
 			left:'210px',
-			height:'45px',
+			height:'30px',
 			width:'35px'
 		});
 		$(".eyeball1").css({
@@ -65,16 +65,16 @@ $(document).ready(function(){
 		});
 		$(".handl").css({
 			transform: 'rotate(0deg)',
-			bottom: '180px',
+			bottom: '196px',
 			left:'40px',
-			height:'45px',
+			height:'30px',
 			width:'35px',
 		});
 		$(".handr").css({
 			transform: 'rotate(0deg)',
-			bottom: '180px',
+			bottom: '196px',
 			left:'210px',
-			height:'45px',
+			height:'30px',
 			width:'35px'
 		});
 		$(".dialog").css({
