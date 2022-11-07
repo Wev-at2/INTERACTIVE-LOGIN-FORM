@@ -1,4 +1,4 @@
-alert("Try to enter username or password to see the deadpool reacting to your actions.");
+// alert("Try to enter username or password to see the deadpool reacting to your actions.");
 $(document).ready(function(){
 	$(":text").focus(function(){
 		$(".handl").css({
